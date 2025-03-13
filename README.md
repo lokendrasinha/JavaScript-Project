@@ -5,7 +5,7 @@ A simple and responsive **Weather App** built using **HTML, CSS, JavaScript**, a
 ---
 
 ## 🚀 Live Demo
->[🔗](java-script-project-q7oj-ll9d57bv5-lokendra-sinhas-projects.vercel.app)
+>[🔗](https://java-script-project-q7oj.vercel.app/)
 
 
 ---
