@@ -12,6 +12,7 @@ body{
     /* background-color:whitesmoke; */
     
 }
+/* for circular loader */
 .rotate{
     animation: rotate 1.6s linear infinite;
 }
@@ -57,7 +58,7 @@ svg{
         stroke-dashoffset:-510 ;
     }
 }
-
+/* for horizontal loader */
 line{
     animation: line-show 1.6s ease-in-out infinite  ;
 }
