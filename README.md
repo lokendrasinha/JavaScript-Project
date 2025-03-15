@@ -24,6 +24,7 @@ This repository contains **3 small JavaScript projects** to help you learn and p
 - **CSS3** — Styling & Animations
 - **JavaScript (ES6+)** — Logic and interactivity
 - **REST APIs** — (Used in Weather App for fetching live data)
+- **FontAwesome** - Used for icons
 
 ---
 
