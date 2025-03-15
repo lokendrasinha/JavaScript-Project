@@ -1,37 +1,30 @@
-# 🌤️ Weather App
+# 🚀 JavaScript Mini Projects Collection
 
-A simple and responsive **Weather App** built using **HTML, CSS, JavaScript**, and a **Weather API** to display real-time weather data for any city in the world.
-
----
-
-## 🚀 Live Demo
->[🔗](https://java-script-project-q7oj.vercel.app/)
-
+Welcome to the **JavaScript Mini Projects Collection**!  
+This repository contains **3 small JavaScript projects** to help you learn and practice core concepts of modern JavaScript, DOM manipulation, and CSS animations.
 
 ---
 
-## 📷 Screenshots
+## 📚 Projects Included
 
-![image](https://github.com/user-attachments/assets/bfd62224-6007-4955-9655-f7783089e4d1)
+| #  | Project Name                      | Description                                                | 
+|----|-----------------------------------|------------------------------------------------------------|
+| 1  | Weather App                       | Fetches and displays real-time weather information using an API. | 
+| 2  | Loader (Horizontal & Vertical)    | Simple and beautiful loading animations — both horizontal and vertical spinners. | 
+| 3  | Age Calculator                    | Calculates age in years, months, and days based on user-provided date of birth. | 
 
-
----
-
-## 🔑 Features
-- 🌍 Search weather by city name.
-- 🌡️ Display temperature in Celsius.
-- 🌥️ Show weather condition (cloudy, sunny, rain, etc.).
-- 💨 Display humidity and wind speed.
-- ⏰ Real-time weather updates.
-- 🎨 Beautiful and responsive design.
+> ⚙️ **More projects coming soon... Stay tuned!**
 
 ---
 
-## 🛠 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript
-- **API**: [OpenWeatherMap API](https://openweathermap.org/api)
+## 🛠️ Technologies Used
+
+- **HTML5** — Structure
+- **CSS3** — Styling & Animations
+- **JavaScript (ES6+)** — Logic and interactivity
+- **REST APIs** — (Used in Weather App for fetching live data)
 
 ---
 
-## 📦 Folder Structure
-/Weather-App ├── index.html ├── style.css ├── script.js └── README.md
+## 📂 Folder Structure
+JavaScript-Project/ │ ├── Age_Calculator/ │ ├── README.md │ ├── index.html │ └── style.css │ ├── Loader/ │ ├── index.html │ └── style.css │ ├── weather_app/ │ ├── images/ │ ├── README.md │ ├── index.html │ ├── style.css │ └── weather app demo.mp4 │ └── README.md (Main README file)
