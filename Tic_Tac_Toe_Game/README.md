@@ -61,9 +61,14 @@ A simple and responsive **Tic Tac Toe game** built using **HTML, CSS, and Vanill
 
 ```
 Tic_Tac_Toe_Game/
-├── index.html
-├── script.js
-└── style.css
+├── index.html # Main HTML file (Game layout)
+├── script.js # JavaScript file (Game logic and bot)
+├── style.css # CSS file (Styling and animations)
+├── README.md # Project documentation
+├── image.png # Screenshot or demo image
+├── image-1.png # Additional screenshot or demo image
+└── image-2.png # Additional screenshot or demo image
+
 ```
 
 ---
