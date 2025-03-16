@@ -13,6 +13,7 @@ This repository contains **3 small JavaScript projects** to help you learn and p
 | 2  | Loader (Horizontal & Vertical)    | Simple and beautiful loading animations — both horizontal and vertical spinners. | 
 | 3  | Age Calculator                    | Calculates age in years, months, and days based on user-provided date of birth. | 
 | 4  | Tic Tac Toe Game (Player vs Bot)  | A responsive Tic Tac Toe game using HTML, CSS, and JavaScript with a bot that plays random moves.|
+| 5  | Music Player Web App              | A simple and responsive **Music Player Web App** built using **HTML, CSS, and JavaScript**, featuring custom play/pause functionality, a progress bar, and sleek control buttons.|
 
 > ⚙️ **More projects coming soon... Stay tuned!**
 
