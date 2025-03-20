@@ -1,7 +1,7 @@
 # 🚀 JavaScript Mini Projects Collection
 
 Welcome to the **JavaScript Mini Projects Collection**!  
-This repository contains **3 small JavaScript projects** to help you learn and practice core concepts of modern JavaScript, DOM manipulation, and CSS animations.
+This repository contains **7 small JavaScript projects** to help you learn and practice core concepts of modern JavaScript, DOM manipulation, and CSS animations.
 
 ---
 
@@ -15,6 +15,9 @@ This repository contains **3 small JavaScript projects** to help you learn and p
 | 4  | Tic Tac Toe Game (Player vs Bot)  | A responsive Tic Tac Toe game using HTML, CSS, and JavaScript with a bot that plays random moves.|
 | 5  | Music Player Web App              | A simple and responsive **Music Player Web App** built using **HTML, CSS, and JavaScript**, featuring custom play/pause functionality, a progress bar, and sleek control buttons.|
 | 6  | Snake Game                   | A simple and classic **Snake Game** built using **HTML, CSS, and JavaScript.** Control the snake, eat food to grow longer, and avoid colliding with the walls or yourself!|
+| 7  | Expense Tracker App               |  A web-based application for managing daily expenses efficiently. Users can add, view, and delete expenses categorized by type, amount, and date, with real-time total updates.|
+
+
 
 > ⚙️ **More projects coming soon... Stay tuned!**
 
