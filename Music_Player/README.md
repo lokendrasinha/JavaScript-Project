@@ -25,8 +25,7 @@ A simple and responsive **Music Player Web App** built using **HTML, CSS, and Ja
 ---
 
 ## 📸 Preview  
-
-<video controls src="20250316-2112-36.1202228.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/e7d01330-687b-4e10-bd1b-3512d04ae3bf
 
 ---
 
