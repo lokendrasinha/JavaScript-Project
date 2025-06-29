@@ -7,9 +7,9 @@ This repository contains **7 small JavaScript projects** to help you learn and p
 
 ## 📚 Projects Included
 
-| #  | Project Name                      | Description                                                | 
+| #  | Project Name                      | Link                                                | 
 |----|-----------------------------------|------------------------------------------------------------|
-| 1  | Weather App                       | Fetches and displays real-time weather information using an API. | 
+| 1  | Weather App                       | [Link](https://github.com/lokendrasinha/JavaScript-Project/tree/main/weather_app) | 
 | 2  | Loader (Horizontal & Vertical)    | Simple and beautiful loading animations — both horizontal and vertical spinners. | 
 | 3  | Age Calculator                    | Calculates age in years, months, and days based on user-provided date of birth. | 
 | 4  | Tic Tac Toe Game (Player vs Bot)  | A responsive Tic Tac Toe game using HTML, CSS, and JavaScript with a bot that plays random moves.|
